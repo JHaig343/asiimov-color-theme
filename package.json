@@ -1,0 +1,29 @@
+{
+    "name": "asiimov-color-theme",
+    "displayName": "Asiimov Color Theme",
+    "description": "A vibrant color theme based on the famous Counter-Strike weapon skin",
+    "version": "0.0.5",
+    "license": "MIT",
+    "author": "Jacob Haig",
+    "publisher": "jhaig343",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "keywords": [
+        "asiimov",
+        "csgo",
+        "orange"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Asiimov",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Asiimov-color-theme.json"
+            }
+        ]
+    }
+}
