@@ -9,6 +9,10 @@
     "engines": {
         "vscode": "^1.33.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JHaig343/asiimov-color-theme"
+    },
     "keywords": [
         "asiimov",
         "csgo",
