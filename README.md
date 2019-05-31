@@ -1,6 +1,6 @@
 A theme as legendary as the skin it is based on.
 
-![HTML Screenshot](asiimov-screenshot.png)
+![HTML Screenshot](./asiimov-screenshot.png)
 
 
 My first theme, please let me know if you see any elements that are out of place or don't work well!
